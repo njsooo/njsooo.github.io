@@ -1,6 +1,6 @@
 ---
 title: "아코디언"
-categories: programming_basic
+categories: css_component
 ---
 
 ## 코드
