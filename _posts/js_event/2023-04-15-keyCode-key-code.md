@@ -8,7 +8,7 @@ toc: true
 [qwerty 레이아웃](https://en.wikipedia.org/wiki/QWERTY)  
 [colemak 레이아웃](https://colemak.com/)
 
-## charCode, keyCode
+## [charCode](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/charCode), [keyCode](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode)
 Deprecated 되었습니다.
 
 ## [key](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key)
