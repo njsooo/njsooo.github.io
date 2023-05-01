@@ -1,6 +1,6 @@
 ---
 title: 최상단일 때 헤더 숨기기
-categories: scroll_animation
+categories: UI scroll
 ---
 
 ## [강의 링크](https://wtss.tistory.com/159)

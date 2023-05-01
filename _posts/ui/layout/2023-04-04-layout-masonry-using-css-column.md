@@ -1,6 +1,6 @@
 ---
 title: "layout masonry using css column"
-categories: layout
+categories: UI layout
 ---
 
 ## 코드

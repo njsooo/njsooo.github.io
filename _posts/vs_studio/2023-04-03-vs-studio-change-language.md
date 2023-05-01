@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio 2022 언어 변경"
-categories: vs_studio
+categories: Vs_studio
 ---
 
 ## 1. 언어팩 설치

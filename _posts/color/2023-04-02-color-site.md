@@ -1,6 +1,6 @@
 ---
 title: "색상 사이트 추천"
-categories: color
+categories: Color
 ---
 
 ## Color

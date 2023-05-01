@@ -1,7 +1,8 @@
 ---
 title: PowerShell(파워셸) 명렁어 정리
-categories: terminal
+categories: Windows terminal
 toc: true
+toc_sticky: true
 ---
 
 ## 사전 준비

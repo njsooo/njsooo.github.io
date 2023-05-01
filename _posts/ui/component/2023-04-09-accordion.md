@@ -1,6 +1,6 @@
 ---
 title: "아코디언"
-categories: css_component
+categories: UI component
 ---
 
 ## 1. 개별 열기

@@ -1,7 +1,8 @@
 ---
 title: "요소 수직, 수평 중앙 정렬 모음"
-categories: layout
+categories: UI layout
 toc: true
+toc_sticky: true
 ---
 
 ## 소개

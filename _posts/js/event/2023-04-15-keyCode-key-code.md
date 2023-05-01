@@ -1,6 +1,6 @@
 ---
 title: "KeyboardEvent 속성 charCode, keyCode, key, code 비교"
-categories: js_event
+categories: JS event
 toc: true
 ---
 

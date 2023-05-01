@@ -1,6 +1,6 @@
 ---
 title: scroll animation basic
-categories: scroll_animation
+categories: UI scroll
 ---
 
 ## Introduction

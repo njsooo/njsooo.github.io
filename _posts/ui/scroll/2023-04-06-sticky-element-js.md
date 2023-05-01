@@ -1,6 +1,6 @@
 ---
 title: 자바스크립트로 Sticky 구현
-categories: scroll_animation
+categories: UI scroll
 ---
 
 ## [강의 링크](https://wtss.tistory.com/158)

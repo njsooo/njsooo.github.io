@@ -1,5 +1,6 @@
 ---
 title: "CSS icon plus"
+categories: UI icon
 ---
 
 ## 코드

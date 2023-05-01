@@ -1,6 +1,6 @@
 ---
 title: "리터럴, 변수, 상수"
-categories: programming_basic
+categories: Programming basic
 ---
 
 ## 리터럴(Literal)
