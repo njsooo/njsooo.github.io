@@ -1,7 +1,6 @@
 ---
 title: "KeyboardEvent 속성 charCode, keyCode, key, code 비교"
 categories: JS event
-toc: true
 ---
 
 ## 사전 지식
