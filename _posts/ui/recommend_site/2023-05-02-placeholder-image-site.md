@@ -22,7 +22,6 @@ categories: UI recommend_site
 ## 인물 이미지
 - [https://pravatar.cc/](https://pravatar.cc/)
 
-
 ## 동물 이미지
 - [https://placekitten.com/](https://placekitten.com/)
 - [https://placebear.com/](https://placebear.com/)
