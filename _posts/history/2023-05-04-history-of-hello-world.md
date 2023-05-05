@@ -48,7 +48,7 @@ main()
 "Hello world"는 1950년대 라디오 진행자 William B. Williams의 인사말이였습니다.
 
 1972년 출간된 Basic 책 "My Computer Likes Me, When I Speak in Basic"에서 string을 출력하는 예제로 "Hello, world!"가 아닌 다음의 예제가 등장합니다.
-```basic
+```
 PRINT "MY HUMAN UNDERSTANDS ME"
 ```
 
